@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const requestHandler =(req,res)=>{
     let url=req.url;
-    // console.log("Lohith");
+    console.log("Lohith");
     if(url==="/"){
         console.log("Lohith");
         res.write('<html>')

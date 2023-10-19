@@ -1,0 +1,23 @@
+{
+  "name": "sharpnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ecdo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/lohith-dev/Nodejsproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lohith-dev/Nodejsproject/issues"
+  },
+  "homepage": "https://github.com/lohith-dev/Nodejsproject#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
